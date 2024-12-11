@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+body {
+  background-color: black;
+  padding: 100px;
+}
+p {
+  color: white;
+}
+.anh {
+  color: white;
+}
+#error {
+  color: red;
+}
+/* #tasklist {
+  /* display: flex; */
+#x {
+  width: 20px;
+  height: 20px;
+  color: white;
+}
+.mur {
+  display: flex;
+  flex-direction: row;
+}
